@@ -1,7 +1,7 @@
 <?php
 namespace Maomao\Test\Log;
 
-class Computer
+class Compute
 {
 
     public function __construct()
